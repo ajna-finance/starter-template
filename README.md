@@ -1,3 +1,34 @@
+# Ajna Starter Kit
+
+Welcome to the Ajna Starter Kit repository! This repository provides a basic setup and configuration to kick-start your development projects using the Ajna framework.
+
+## Repository Description
+
+The Ajna Starter Kit repository is designed to be a starting point for developers who want to build applications using the Ajna framework. It includes a preconfigured project structure, essential dependencies, and sample code to help you get up and running quickly.
+
+## Getting Started
+
+To get started with the Ajna Starter Kit, follow these steps:
+
+1. Clone the repository:
+```
+git clone https://github.com/ith-harvey/starter-kit.git
+```
+2. Change into the project directory:
+```
+cd ajna-starter-kit
+```
+3. Initialize and update the submodules:
+```
+git submodule init
+git submodule update
+```
+
+## Run tests
+```
+forge test
+```
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
