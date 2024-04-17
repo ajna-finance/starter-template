@@ -1,14 +1,15 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
 
-import {Test, console} from "forge-std/Test.sol";
-import {Counter} from "../src/Counter.sol";
+import { Test, console } from "forge-std/Test.sol";
+import { StarterKit } from "../src/StarterKit.sol";
+import { StarterKitTestHelperContract } from './Utils.t.sol';
 
-contract CounterTest is Test {
-    Counter public counter;
+contract CounterTest is StarterKitTestHelperContract {
+    StarterKit public counter;
 
     function setUp() public {
-        counter = new Counter();
+        counter = new StarterKit();
         counter.setNumber(0);
     }
 
