@@ -1,6 +1,6 @@
-# Ajna Starter Kit
+# Ajna Starter Template
 
-Welcome to the Ajna Starter Kit repository! This repository provides a basic setup and configuration to kick-start your development projects using the Ajna protocol.
+Welcome to the Ajna template repository! This repository provides a basic setup and configuration to kick-start your development projects using the Ajna protocol.
 
 ## Getting Started
 
@@ -8,11 +8,11 @@ To get started with the Ajna Starter Kit, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/ith-harvey/starter-kit.git
+git clone https://github.com/ajna-finance/starter-template.git
 ```
 2. Change into the project directory:
 ```
-cd ajna-starter-kit
+cd starter-template
 ```
 3. Initialize and update the submodules:
 ```
