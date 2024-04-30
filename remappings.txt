@@ -1,0 +1,14 @@
+@base64-sol/=lib/ajna-core/lib/base64/
+@clones/=lib/ajna-core/lib/clones-with-immutable-args/src/
+@openzeppelin/contracts/=lib/ajna-core/lib/openzeppelin-contracts/contracts/
+@prb-math/=lib/ajna-core/lib/prb-math/
+@solmate/=lib/ajna-core/lib/solmate/src/
+@std/=lib/ajna-core/lib/forge-std/src/
+ajna-core/=lib/ajna-core/
+base64/=lib/ajna-core/lib/base64/
+clones-with-immutable-args/=lib/ajna-core/lib/clones-with-immutable-args/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/ajna-core/lib/openzeppelin-contracts/
+prb-math/=lib/ajna-core/lib/prb-math/contracts/
+src/=src/
